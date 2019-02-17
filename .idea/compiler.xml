@@ -6,20 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Application" />
-        <module name="Application2" />
-        <module name="Application3" />
-        <module name="Buncee" />
+        <module name="Craiglist" />
         <module name="Generic" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Amazon" target="1.5" />
-      <module name="Application" target="1.5" />
-      <module name="Application2" target="1.5" />
-      <module name="Application3" target="1.5" />
-      <module name="Buncee" target="1.5" />
-      <module name="Generic" target="1.5" />
+      <module name="Application" target="1.6" />
+      <module name="Application2" target="1.6" />
+      <module name="Application3" target="1.6" />
+      <module name="Craiglist" target="1.6" />
+      <module name="FinalScore" target="1.6" />
+      <module name="Generic" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>

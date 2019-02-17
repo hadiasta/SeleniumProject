@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Amazon.iml" filepath="$PROJECT_DIR$/Amazon.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Application/Application.iml" filepath="$PROJECT_DIR$/Application/Application.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Application2/Application2.iml" filepath="$PROJECT_DIR$/Application2/Application2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Application3/Application3.iml" filepath="$PROJECT_DIR$/Application3/Application3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Buncee/Buncee.iml" filepath="$PROJECT_DIR$/Buncee/Buncee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Application.iml" filepath="$PROJECT_DIR$/Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Craiglist/Craiglist.iml" filepath="$PROJECT_DIR$/Craiglist/Craiglist.iml" />
       <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
     </modules>
   </component>

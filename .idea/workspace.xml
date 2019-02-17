@@ -1,196 +1,661 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1327a78f-eb8a-4ecb-91d7-d4b8bd509329" name="Default Changelist" comment="" />
+    <list default="true" id="1327a78f-eb8a-4ecb-91d7-d4b8bd509329" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_04.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Craiglist/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Craiglist/src/main/java/SubBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Craiglist/src/main/java/pageobject/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Craiglist/src/main/java/pageobject/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Craiglist/src/test/TestData/LoginInfo.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Craiglist/src/test/java/AccountFeature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Craiglist/src/test/java/FreeItems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Application.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Amazon.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Application/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Application/src/main/java/SubBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Application/src/test/Resources/TestRunner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Application/src/test/java/AccountPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Application/src/test/java/ProductSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Application/target/Application-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Application/target/classes/SubBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Application/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Application/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Application/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Application/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Application/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Application/target/test-classes/AccountPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Application/target/test-classes/ProductSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Application/target/test-classes/TestRunner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Application2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Application2/target/Application2-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Application2/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Application2/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Craiglist/src/main/main2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Application2/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Craiglist/src/test/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Application3/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Application3/target/Application3-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Application3/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Application3/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Application3/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/Buncee.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/src/main/java/SubBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/src/main/java/pageobject/AboutUsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/src/main/java/pageobject/AccountPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/src/main/java/pageobject/CartPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/src/main/java/pageobject/CheckoutPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/src/main/java/pageobject/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Craiglist/src/main/java/pageobject/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/src/main/java/pageobject/LiveChatPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/src/main/java/pageobject/ProductDetailPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/src/main/java/pageobject/ProductListingPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/src/test/Resources/TestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Craiglist/src/test/Resources/TestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/src/test/TestData/test_data.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/src/test/java/AccountFeature.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/src/test/java/HomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/src/test/java/PLP.java" beforeDir="false" afterPath="$PROJECT_DIR$/Craiglist/src/test/java/PLP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/target/Buncee-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/target/classes/SubBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/target/classes/pageobject/AboutUsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/target/classes/pageobject/AccountPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/target/classes/pageobject/CartPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/target/classes/pageobject/CheckoutPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/target/classes/pageobject/HomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/target/classes/pageobject/LiveChatPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/target/classes/pageobject/ProductDetailPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/target/classes/pageobject/ProductListingPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/target/test-classes/AccountFeature.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/target/test-classes/HomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/target/test-classes/PLP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/target/test-classes/TestRunner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Generic/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Generic/src/main/driver/chromedriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Generic/src/main/java/Base.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Generic/target/Generic-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Generic/target/classes/Base.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Generic/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Generic/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Application.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Craiglist/Craiglist.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/src/main/java/SubBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/src/main/main1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/src/test/Resources/TestRunner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/src/test/java/AccountPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/src/test/java/ProductSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/src/test/test1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/target/classes/SubBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/Amazon App is running on Chrome Browser/Home Page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/Amazon App is running on Chrome Browser/Home Page.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/TestSuite.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/junitreports/TEST-AccountPage.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/junitreports/TEST-ProductSearch.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/old/Amazon App is running on Chrome Browser/Home Page.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/old/Amazon App is running on Chrome Browser/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/old/Amazon App is running on Chrome Browser/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/old/Amazon App is running on Chrome Browser/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/old/Amazon App is running on Chrome Browser/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/old/Amazon App is running on Chrome Browser/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/old/Amazon App is running on Chrome Browser/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/old/Amazon App is running on Chrome Browser/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/old/Amazon App is running on Chrome Browser/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/old/Amazon App is running on Chrome Browser/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/old/Amazon App is running on Chrome Browser/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/target/test-classes/AccountPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/target/test-classes/HomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/target/test-classes/TestRunner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application2/Application2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application3/Application3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application3/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buncee/Buncee.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buncee/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buncee/src/main/java/SubBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buncee/src/main/main2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buncee/src/test/Resources/TestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Craiglist/target/test-classes/TestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buncee/src/test/TestResult/Screenshot/login_2018-09-23_123842.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buncee/src/test/java/AccountFeature.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buncee/src/test/java/HomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buncee/src/test/java/PLP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buncee/src/test/test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buncee/target/classes/SubBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buncee/target/test-classes/AccountFeature$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buncee/target/test-classes/AccountFeature.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buncee/target/test-classes/PLP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buncee/target/test-classes/TestRunner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/Generic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/Generic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/Base.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/Base.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/Base.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/Buncee/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Generic/target/" />
     <ignored path="$PROJECT_DIR$/Application3/target/" />
     <ignored path="$PROJECT_DIR$/Application2/target/" />
     <ignored path="$PROJECT_DIR$/Application/target/" />
+    <ignored path="$PROJECT_DIR$/FinalScore/target/" />
+    <ignored path="$PROJECT_DIR$/Craiglist/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1867372235">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.207" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.3" value="3" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="3" />
+          <entry key="class" value="3" />
+          <entry key="iml" value="3" />
+          <entry key="java" value="14" />
+          <entry key="png" value="2" />
+          <entry key="xml" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="3" />
+          <entry key="CLASS" value="3" />
+          <entry key="IDEA_MODULE" value="3" />
+          <entry key="Image" value="2" />
+          <entry key="JAVA" value="14" />
+          <entry key="XML" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="73" />
+          <entry key="java" value="1181" />
+          <entry key="xml" value="72" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="73" />
+          <entry key="JAVA" value="1181" />
+          <entry key="XML" value="72" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
     </session>
+    <session id="-136127157">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="40" />
+          <entry key="xml" value="50" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="40" />
+          <entry key="XML" value="50" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="iml" value="5" />
+          <entry key="java" value="18" />
+          <entry key="png" value="1" />
+          <entry key="xml" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="IDEA_MODULE" value="5" />
+          <entry key="Image" value="1" />
+          <entry key="JAVA" value="18" />
+          <entry key="XML" value="7" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1970634210">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.143" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.87" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="3" />
+          <entry key="iml" value="2" />
+          <entry key="java" value="16" />
+          <entry key="png" value="7" />
+          <entry key="xml" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="3" />
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="Image" value="7" />
+          <entry key="JAVA" value="16" />
+          <entry key="XML" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="18" />
+          <entry key="java" value="2345" />
+          <entry key="xml" value="116" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2345" />
+          <entry key="PLAIN_TEXT" value="18" />
+          <entry key="XML" value="116" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/Base.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Craiglist/src/test/java/AccountFeature.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="62" column="22" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="22" />
+            <state relative-caret-position="119">
+              <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Buncee/src/test/java/AccountFeature.java">
+        <entry file="file://$PROJECT_DIR$/Craiglist/src/main/java/pageobject/Login.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Craiglist/src/main/java/pageobject/Account.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Craiglist/src/main/java/SubBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/Base.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Craiglist/src/main/java/pageobject/HomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="39" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
       <list>
-        <option value="$PROJECT_DIR$/Buncee/src/test/java/AccountFeature.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/Base.java" />
+        <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/FinalScore/pom.xml" />
+        <option value="$PROJECT_DIR$/Buncee/pom.xml" />
+        <option value="$PROJECT_DIR$/FinalScore/src/main/java/pageobject/SubBase.java" />
+        <option value="$PROJECT_DIR$/FinalScore/src/test/java/SubBase.java" />
+        <option value="$PROJECT_DIR$/FinalScore/src/test/java/AccountCreation.java" />
+        <option value="$PROJECT_DIR$/FinalScore/src/main/java/pageobject/AccountCreationPage.java" />
+        <option value="$PROJECT_DIR$/FinalScore/src/main/java/SubBase.java" />
+        <option value="$PROJECT_DIR$/FinalScore/src/test/Resources/TestRunner.xml" />
+        <option value="$PROJECT_DIR$/Amazon/Buncee/src/test/Resources/TestRunner.xml" />
+        <option value="$PROJECT_DIR$/Amazon/Buncee/src/main/java/pageobject/AccountPage.java" />
+        <option value="$PROJECT_DIR$/Amazon/Buncee/src/test/java/AccountFeature.java" />
+        <option value="$PROJECT_DIR$/Amazon/Generic/src/main/java/Base.java" />
+        <option value="$PROJECT_DIR$/Buncee/src/test/Resources/TestRunner.xml" />
+        <option value="$PROJECT_DIR$/Buncee/src/main/java/SubBase.java" />
+        <option value="$PROJECT_DIR$/Buncee/src/test/java/AccountFeature.java" />
+        <option value="$PROJECT_DIR$/Craiglist/src/test/java/FreeItems.java" />
+        <option value="$PROJECT_DIR$/Craiglist/src/test/Resources/TestRunner.xml" />
+        <option value="$PROJECT_DIR$/Generic/pom.xml" />
+        <option value="$PROJECT_DIR$/Craiglist/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Application/src/test/java/AccountFeature.java" />
+        <option value="$PROJECT_DIR$/Application/src/main/java/SubBase.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/Base.java" />
+        <option value="$PROJECT_DIR$/Craiglist/src/main/java/AccountPage.java" />
+        <option value="$PROJECT_DIR$/Craiglist/src/main/java/pageobject/HomePage.java" />
+        <option value="$PROJECT_DIR$/Craiglist/src/main/java/pageobject/AccountPage.java" />
+        <option value="$PROJECT_DIR$/Craiglist/src/main/java/pageobject/Login.java" />
+        <option value="$PROJECT_DIR$/Craiglist/src/main/java/pageobject/Account.java" />
+        <option value="$PROJECT_DIR$/Craiglist/src/test/java/AccountFeature.java" />
+        <option value="$PROJECT_DIR$/Craiglist/src/main/java/SubBase.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Profiles" type="6783ec58:MavenProjectsStructure$ProfilesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Application" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Application" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Craiglist" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Craiglist" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-27" />
-    <option name="y" value="-10" />
+    <option name="x" value="265" />
+    <option name="y" value="1" />
     <option name="width" value="1364" />
-    <option name="height" value="728" />
+    <option name="height" value="726" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Amazon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="Craiglist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Craiglist" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Amazon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="Craiglist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Craiglist" type="462c0819:PsiDirectoryNode" />
+              <item name="Craiglist" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Amazon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Amazon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="Craiglist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Craiglist" type="462c0819:PsiDirectoryNode" />
+              <item name="Craiglist" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Amazon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="Craiglist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Craiglist" type="462c0819:PsiDirectoryNode" />
+              <item name="Craiglist" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Amazon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="driver" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Amazon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="Buncee" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Amazon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="Buncee" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Amazon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="Buncee" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Amazon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="Buncee" type="462c0819:PsiDirectoryNode" />
+              <item name="Craiglist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Craiglist" type="462c0819:PsiDirectoryNode" />
+              <item name="Craiglist" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Amazon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="Buncee" type="462c0819:PsiDirectoryNode" />
+              <item name="Craiglist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Craiglist" type="462c0819:PsiDirectoryNode" />
+              <item name="Craiglist" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pageobject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Craiglist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Craiglist" type="462c0819:PsiDirectoryNode" />
+              <item name="Craiglist" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Amazon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="Buncee" type="462c0819:PsiDirectoryNode" />
+              <item name="Craiglist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Craiglist" type="462c0819:PsiDirectoryNode" />
+              <item name="Craiglist" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Craiglist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Craiglist" type="462c0819:PsiDirectoryNode" />
+              <item name="Craiglist" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="Resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Amazon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="Buncee" type="462c0819:PsiDirectoryNode" />
+              <item name="Craiglist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Craiglist" type="462c0819:PsiDirectoryNode" />
+              <item name="Craiglist" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="TestData" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Craiglist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Craiglist" type="462c0819:PsiDirectoryNode" />
+              <item name="Craiglist" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="TestResult" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Craiglist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Craiglist" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Craiglist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Craiglist" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Craiglist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Craiglist" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Craiglist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Craiglist" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Craiglist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Craiglist" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="driver" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537720885985" />
+    <property name="SearchEverywhereHistoryKey" value="AccountFeature&#9;FILE&#9;file://C:/Users/sideeg/Desktop/Craiglist/Craiglist/target/test-classes/AccountFeature.class&#10;increase font&#9;PSI&#9;JAVA://com.sun.deploy.ui.PromptEditorKit#increaseFontSize&#10;buncee&#9;FILE&#9;file://C:/Users/sideeg/Desktop/Amazon - Copy/Buncee/Buncee.iml" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550366715643" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Amazon" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sideeg\Desktop\Craiglist\Craiglist\src\test\TestData" />
+      <recent name="C:\Users\sideeg\Desktop\Amazon - Copy\Buncee\src\test" />
+      <recent name="C:\Users\sideeg\Desktop\Amazon - Copy\Amazon\Generic\src\main\driver" />
+      <recent name="C:\Users\sideeg\Desktop\Amazon\FinalScore\src\test\TestData" />
+      <recent name="C:\Users\sideeg\Desktop\Amazon\FinalScore\src\test\Resources" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -204,10 +669,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="C:/Users/sideeg/Desktop/Amazon/Buncee/src/test/Resources/TestRunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Buncee" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/Buncee/src/test/Resources/TestRunner.xml" />
+  <component name="RunManager" selected="TestNG.C:/Users/sideeg/Desktop/Craiglist/Craiglist/src/test/Resources/TestRunner.xml (1)">
+    <configuration name="AccountFeature" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Application" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AccountFeature" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountFeature.musicTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Application" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AccountFeature" />
+      <option name="METHOD_NAME" value="musicTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/sideeg/Desktop/Craiglist/Application/src/test/Resources/TestRunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Application" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Application/src/test/Resources/TestRunner.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -215,9 +702,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C:/Users/sideeg/Desktop/Craiglist/Craiglist/src/test/Resources/TestRunner.xml (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Craiglist" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Craiglist/src/test/Resources/TestRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/sideeg/Desktop/Craiglist/Craiglist/src/test/Resources/TestRunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Application" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Craiglist/src/test/Resources/TestRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.C:/Users/sideeg/Desktop/Craiglist/Craiglist/src/test/Resources/TestRunner.xml" />
+      <item itemvalue="TestNG.AccountFeature.musicTest" />
+      <item itemvalue="TestNG.C:/Users/sideeg/Desktop/Craiglist/Application/src/test/Resources/TestRunner.xml" />
+      <item itemvalue="TestNG.AccountFeature" />
+      <item itemvalue="TestNG.C:/Users/sideeg/Desktop/Craiglist/Craiglist/src/test/Resources/TestRunner.xml (1)" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/sideeg/Desktop/Amazon/Buncee/src/test/Resources/TestRunner.xml" />
+        <item itemvalue="TestNG.C:/Users/sideeg/Desktop/Craiglist/Craiglist/src/test/Resources/TestRunner.xml (1)" />
+        <item itemvalue="TestNG.AccountFeature" />
+        <item itemvalue="TestNG.C:/Users/sideeg/Desktop/Craiglist/Application/src/test/Resources/TestRunner.xml" />
+        <item itemvalue="TestNG.AccountFeature.musicTest" />
+        <item itemvalue="TestNG.C:/Users/sideeg/Desktop/Craiglist/Craiglist/src/test/Resources/TestRunner.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -235,37 +753,76 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__Users_sideeg_Desktop_Amazon_Buncee_src_test_Resources_TestRunner_xml - 2018.09.23 at 11h 38m 37s.xml">
-      <configuration name="C:/Users/sideeg/Desktop/Amazon/Buncee/src/test/Resources/TestRunner.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_sideeg_Desktop_Craiglist_Craiglist_src_test_Resources_TestRunner_xml_(1) - 2019.02.12 at 20h 32m 17s.xml">
+      <configuration name="C:/Users/sideeg/Desktop/Craiglist/Craiglist/src/test/Resources/TestRunner.xml (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_sideeg_Desktop_Amazon_Buncee_src_test_Resources_TestRunner_xml - 2018.09.23 at 11h 47m 05s.xml">
-      <configuration name="C:/Users/sideeg/Desktop/Amazon/Buncee/src/test/Resources/TestRunner.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_sideeg_Desktop_Craiglist_Craiglist_src_test_Resources_TestRunner_xml_(1) - 2019.02.12 at 20h 47m 50s.xml">
+      <configuration name="C:/Users/sideeg/Desktop/Craiglist/Craiglist/src/test/Resources/TestRunner.xml (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_sideeg_Desktop_Amazon_Buncee_src_test_Resources_TestRunner_xml - 2018.09.23 at 11h 53m 45s.xml">
-      <configuration name="C:/Users/sideeg/Desktop/Amazon/Buncee/src/test/Resources/TestRunner.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_sideeg_Desktop_Craiglist_Craiglist_src_test_Resources_TestRunner_xml_(1) - 2019.02.15 at 20h 46m 44s.xml">
+      <configuration name="C:/Users/sideeg/Desktop/Craiglist/Craiglist/src/test/Resources/TestRunner.xml (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_sideeg_Desktop_Amazon_Buncee_src_test_Resources_TestRunner_xml - 2018.09.23 at 11h 58m 48s.xml">
-      <configuration name="C:/Users/sideeg/Desktop/Amazon/Buncee/src/test/Resources/TestRunner.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_sideeg_Desktop_Craiglist_Craiglist_src_test_Resources_TestRunner_xml_(1) - 2019.02.15 at 21h 10m 45s.xml">
+      <configuration name="C:/Users/sideeg/Desktop/Craiglist/Craiglist/src/test/Resources/TestRunner.xml (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_sideeg_Desktop_Amazon_Buncee_src_test_Resources_TestRunner_xml - 2018.09.23 at 12h 39m 50s.xml">
-      <configuration name="C:/Users/sideeg/Desktop/Amazon/Buncee/src/test/Resources/TestRunner.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_sideeg_Desktop_Craiglist_Craiglist_src_test_Resources_TestRunner_xml_(1) - 2019.02.16 at 16h 34m 29s.xml">
+      <configuration name="C:/Users/sideeg/Desktop/Craiglist/Craiglist/src/test/Resources/TestRunner.xml (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_sideeg_Desktop_Craiglist_Craiglist_src_test_Resources_TestRunner_xml_(1) - 2019.02.16 at 19h 16m 59s.xml">
+      <configuration name="C:/Users/sideeg/Desktop/Craiglist/Craiglist/src/test/Resources/TestRunner.xml (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_sideeg_Desktop_Craiglist_Craiglist_src_test_Resources_TestRunner_xml_(1) - 2019.02.16 at 19h 40m 07s.xml">
+      <configuration name="C:/Users/sideeg/Desktop/Craiglist/Craiglist/src/test/Resources/TestRunner.xml (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_sideeg_Desktop_Craiglist_Craiglist_src_test_Resources_TestRunner_xml_(1) - 2019.02.16 at 20h 11m 08s.xml">
+      <configuration name="C:/Users/sideeg/Desktop/Craiglist/Craiglist/src/test/Resources/TestRunner.xml (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_sideeg_Desktop_Craiglist_Craiglist_src_test_Resources_TestRunner_xml_(1) - 2019.02.16 at 20h 14m 41s.xml">
+      <configuration name="C:/Users/sideeg/Desktop/Craiglist/Craiglist/src/test/Resources/TestRunner.xml (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_sideeg_Desktop_Craiglist_Craiglist_src_test_Resources_TestRunner_xml_(1) - 2019.02.16 at 20h 23m 42s.xml">
+      <configuration name="C:/Users/sideeg/Desktop/Craiglist/Craiglist/src/test/Resources/TestRunner.xml (1)" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34039333" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3289689" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32873562" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23639455" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32988507" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32873562" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.3290469" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.5057283" />
@@ -273,40 +830,154 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32980332" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Amazon/Buncee/src/test/java/AccountFeature.java">
+    <entry file="file://$PROJECT_DIR$/Application/src/test/TestResult/Screenshot/login_2018-09-24_202645.png" />
+    <entry file="file://$PROJECT_DIR$/Application/src/test/TestResult/Screenshot/login_2018-09-24_202121.png" />
+    <entry file="file://$PROJECT_DIR$/FinalScore/FinalScore.iml" />
+    <entry file="file://$PROJECT_DIR$/Generic/target/classes/Base.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-102">
+        <state relative-caret-position="-552" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinalScore/src/test/java/SubBase.java" />
+    <entry file="file://$PROJECT_DIR$/FinalScore/src/main/java/pageobject/AccountCreationPage.java" />
+    <entry file="file://$PROJECT_DIR$/Generic/Generic.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/main.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinalScore/src/test/java/AccountCreation.java" />
+    <entry file="file://$PROJECT_DIR$/FinalScore/src/test/Resources/TestRunner.xml" />
+    <entry file="file://$PROJECT_DIR$/Application/src/main/main2.iml" />
+    <entry file="file://$PROJECT_DIR$/Application/src/test/TestResult/Screenshot/login_2018-09-23_123842.png" />
+    <entry file="file://$PROJECT_DIR$/Application/src/test/java/AccountPage.java" />
+    <entry file="file://$PROJECT_DIR$/Application/src/test/java/ProductSearch.java" />
+    <entry file="file://$PROJECT_DIR$/Amazon/Buncee/src/test/java/HomePage.java" />
+    <entry file="file://$PROJECT_DIR$/Amazon/Buncee/src/test/java/PLP.java" />
+    <entry file="file://$PROJECT_DIR$/Amazon/Buncee/src/main/java/pageobject/AccountPage.java" />
+    <entry file="file://$PROJECT_DIR$/Amazon/Buncee/src/test/java/AccountFeature.java" />
+    <entry file="file://$PROJECT_DIR$/Amazon/Buncee/src/main/java/SubBase.java" />
+    <entry file="file://$PROJECT_DIR$/Amazon/Generic/src/main/java/Base.java" />
+    <entry file="file://$PROJECT_DIR$/Amazon/Buncee/src/test/Resources/TestRunner.xml" />
+    <entry file="file://$PROJECT_DIR$/FinalScore/src/main/java/SubBase.java" />
+    <entry file="file://$PROJECT_DIR$/FinalScore/pom.xml" />
+    <entry file="jrt://C:/Program Files/Java/jdk-10.0.2!/jdk.deploy/com/sun/deploy/ui/PromptEditorKit.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/src/test/java/FreeItems.java" />
+    <entry file="file://$PROJECT_DIR$/Application/src/test/java/PLP.java" />
+    <entry file="file://$PROJECT_DIR$/Buncee/target/classes/SubBase.class" />
+    <entry file="file://$PROJECT_DIR$/Craiglist.iml" />
+    <entry file="file://$PROJECT_DIR$/Application/Application.iml" />
+    <entry file="file://$PROJECT_DIR$/Application/target/classes/SubBase.class" />
+    <entry file="file://$PROJECT_DIR$/Craiglist/target/test-classes/AccountFeature.class" />
+    <entry file="file://$PROJECT_DIR$/Application/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/Application/src/test/java/AccountFeature.java" />
+    <entry file="file://$PROJECT_DIR$/Application/src/main/java/SubBase.java" />
+    <entry file="file://$PROJECT_DIR$/Application/src/test/Resources/TestRunner.xml" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-152">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Craiglist/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Craiglist/src/test/TestResult/Screenshot/login_2018-09-24_202645.png" />
+    <entry file="file://$PROJECT_DIR$/Craiglist/src/test/TestResult/Screenshot/login_2018-09-23_123842.png" />
+    <entry file="file://$PROJECT_DIR$/Craiglist/src/main/java/AccountPage.java" />
+    <entry file="file://$PROJECT_DIR$/Craiglist/src/test/TestResult/ScreenshotfeedbackTest_2019-02-16_163427.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Craiglist/src/test/TestResult/ScreenshotfeedbackTest_2019-02-15_204642.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Craiglist/src/test/Resources/TestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Craiglist/src/test/java/AccountFeature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Buncee/src/test/java/AccountFeature.java">
+    <entry file="file://$PROJECT_DIR$/Craiglist/src/main/java/pageobject/Login.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Craiglist/src/main/java/pageobject/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="39" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Craiglist/src/main/java/pageobject/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Craiglist/src/test/TestResult/Screenshotlogin_2019-02-16_201043.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Craiglist/src/main/java/SubBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/Base.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="62" column="22" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="22" />
+        <state relative-caret-position="459">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
         </state>
       </provider>
     </entry>
@@ -362,7 +1033,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Amazon</last-edited>
+          <last-edited>Craiglist</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
