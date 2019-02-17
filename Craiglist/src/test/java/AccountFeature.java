@@ -25,6 +25,7 @@ public class AccountFeature extends SubBase {
     public void logout() throws InterruptedException {
         loginToAccount();
         logoutFromAccount();
+        System.out.println("This is the logout page testcase");
     }
 
 

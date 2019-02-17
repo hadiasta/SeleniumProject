@@ -2,175 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1327a78f-eb8a-4ecb-91d7-d4b8bd509329" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_04.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Craiglist/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Craiglist/src/main/java/SubBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Craiglist/src/main/java/pageobject/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Craiglist/src/main/java/pageobject/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Craiglist/src/test/TestData/LoginInfo.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Craiglist/src/test/java/AccountFeature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Craiglist/src/test/java/FreeItems.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Application.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Amazon.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Application/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Application/src/main/java/SubBase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Application/src/test/Resources/TestRunner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Application/src/test/java/AccountPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Application/src/test/java/ProductSearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Application/target/Application-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Application/target/classes/SubBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Application/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Application/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Application/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Application/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Application/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Application/target/test-classes/AccountPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Application/target/test-classes/ProductSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Application/target/test-classes/TestRunner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Application2/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Application2/target/Application2-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Application2/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Application2/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Craiglist/src/main/main2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Application2/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Craiglist/src/test/test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Application3/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Application3/target/Application3-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Application3/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Application3/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Application3/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/Buncee.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/src/main/java/SubBase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/src/main/java/pageobject/AboutUsPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/src/main/java/pageobject/AccountPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/src/main/java/pageobject/CartPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/src/main/java/pageobject/CheckoutPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/src/main/java/pageobject/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Craiglist/src/main/java/pageobject/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/src/main/java/pageobject/LiveChatPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/src/main/java/pageobject/ProductDetailPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/src/main/java/pageobject/ProductListingPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/src/test/Resources/TestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Craiglist/src/test/Resources/TestRunner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/src/test/TestData/test_data.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/src/test/java/AccountFeature.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/src/test/java/HomePage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/src/test/java/PLP.java" beforeDir="false" afterPath="$PROJECT_DIR$/Craiglist/src/test/java/PLP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/target/Buncee-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/target/classes/SubBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/target/classes/pageobject/AboutUsPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/target/classes/pageobject/AccountPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/target/classes/pageobject/CartPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/target/classes/pageobject/CheckoutPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/target/classes/pageobject/HomePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/target/classes/pageobject/LiveChatPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/target/classes/pageobject/ProductDetailPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/target/classes/pageobject/ProductListingPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/target/test-classes/AccountFeature.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/target/test-classes/HomePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/target/test-classes/PLP.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Buncee/target/test-classes/TestRunner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Generic/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Generic/src/main/driver/chromedriver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Generic/src/main/java/Base.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Generic/target/Generic-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Generic/target/classes/Base.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Generic/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Generic/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/Application.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Craiglist/Craiglist.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/src/main/java/SubBase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/src/main/main1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/src/test/Resources/TestRunner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/src/test/java/AccountPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/src/test/java/ProductSearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/src/test/test1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/target/classes/SubBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/Amazon App is running on Chrome Browser/Home Page.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/Amazon App is running on Chrome Browser/Home Page.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/TestSuite.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/bullet_point.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/collapseall.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/emailable-report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/failed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/jquery-1.7.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/junitreports/TEST-AccountPage.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/junitreports/TEST-ProductSearch.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/navigator-bullet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/old/Amazon App is running on Chrome Browser/Home Page.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/old/Amazon App is running on Chrome Browser/classes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/old/Amazon App is running on Chrome Browser/groups.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/old/Amazon App is running on Chrome Browser/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/old/Amazon App is running on Chrome Browser/main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/old/Amazon App is running on Chrome Browser/methods-alphabetical.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/old/Amazon App is running on Chrome Browser/methods-not-run.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/old/Amazon App is running on Chrome Browser/methods.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/old/Amazon App is running on Chrome Browser/reporter-output.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/old/Amazon App is running on Chrome Browser/testng.xml.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/old/Amazon App is running on Chrome Browser/toc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/old/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/passed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/skipped.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/testng-reports.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/testng-reports.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/testng-results.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/testng.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/target/test-classes/AccountPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/target/test-classes/HomePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/target/test-classes/TestRunner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application2/Application2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application2/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application3/Application3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application3/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buncee/Buncee.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buncee/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buncee/src/main/java/SubBase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buncee/src/main/main2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buncee/src/test/Resources/TestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Craiglist/target/test-classes/TestRunner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buncee/src/test/TestResult/Screenshot/login_2018-09-23_123842.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buncee/src/test/java/AccountFeature.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buncee/src/test/java/HomePage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buncee/src/test/java/PLP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buncee/src/test/test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buncee/target/classes/SubBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buncee/target/test-classes/AccountFeature$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buncee/target/test-classes/AccountFeature.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buncee/target/test-classes/PLP.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buncee/target/test-classes/TestRunner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/Generic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/Generic.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/Base.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/Base.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/Base.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Craiglist/src/test/java/AccountFeature.java" beforeDir="false" afterPath="$PROJECT_DIR$/Craiglist/src/test/java/AccountFeature.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/Buncee/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -286,12 +118,12 @@
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.26" value="1" />
-          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.87" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -315,13 +147,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="18" />
-          <entry key="java" value="2345" />
+          <entry key="java" value="2385" />
           <entry key="xml" value="116" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2345" />
+          <entry key="JAVA" value="2385" />
           <entry key="PLAIN_TEXT" value="18" />
           <entry key="XML" value="116" />
         </counts>
@@ -330,11 +162,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Craiglist/src/test/java/AccountFeature.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+            <state relative-caret-position="306">
+              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -372,11 +204,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/Base.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="459">
-              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
             </state>
           </provider>
         </entry>
@@ -433,8 +265,8 @@
         <option value="$PROJECT_DIR$/Craiglist/src/main/java/pageobject/AccountPage.java" />
         <option value="$PROJECT_DIR$/Craiglist/src/main/java/pageobject/Login.java" />
         <option value="$PROJECT_DIR$/Craiglist/src/main/java/pageobject/Account.java" />
-        <option value="$PROJECT_DIR$/Craiglist/src/test/java/AccountFeature.java" />
         <option value="$PROJECT_DIR$/Craiglist/src/main/java/SubBase.java" />
+        <option value="$PROJECT_DIR$/Craiglist/src/test/java/AccountFeature.java" />
       </list>
     </option>
   </component>
@@ -510,8 +342,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -631,7 +462,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -788,7 +620,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34039333" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34568834" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -930,27 +762,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Craiglist/src/test/java/AccountFeature.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Craiglist/src/test/TestResult/Screenshotlogin_2019-02-16_201043.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Craiglist/src/main/java/pageobject/Login.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Craiglist/src/main/java/pageobject/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="39" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -961,8 +779,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Craiglist/src/test/TestResult/Screenshotlogin_2019-02-16_201043.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/Craiglist/src/main/java/pageobject/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="39" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/Base.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Craiglist/src/main/java/SubBase.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -974,10 +803,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/Base.java">
+    <entry file="file://$PROJECT_DIR$/Craiglist/src/test/java/AccountFeature.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        <state relative-caret-position="306">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
